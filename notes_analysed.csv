@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0872,,,,,pending_gemini_run,
+N002,A0897,,,,,pending_gemini_run,
+N003,A0526,,,,,pending_gemini_run,
+N004,A0926,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N005,A0534,,,,,pending_gemini_run,
+N006,A0507,,,,,pending_gemini_run,
+N007,A0333,,,,,pending_gemini_run,
+N008,A0222,,,,,pending_gemini_run,
+N009,A0977,,,,,pending_gemini_run,
+N010,A0596,,,,,pending_gemini_run,
